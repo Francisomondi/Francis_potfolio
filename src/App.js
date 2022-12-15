@@ -1,7 +1,11 @@
 
 function App() {
   return (
-    <h2>Francis Omondi</h2>
+    <div>
+      <h2 className="text-4xl font-bold font-signature" >Francis Omondi</h2>
+
+    </div>
+
   );
 }
 
