@@ -1,3 +1,4 @@
+/* eslint-disable no-useless-concat */
 import React from 'react'
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
@@ -51,7 +52,7 @@ const SocialLinks = () => {
         }
     ]
     return (
-        <div className='flex flex-col top-[35%] left-0 fixed '>
+        <div className='hidden lg:flex flex-col top-[35%] left-0 fixed '>
             <ul>
 
                 {links.map(({ id, child, href, style, download }) => {
