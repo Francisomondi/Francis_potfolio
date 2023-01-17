@@ -1,6 +1,7 @@
 import React from 'react'
 import myImage from "../assets/aziz.jpg"
-import { RxDoubleArrowRight } from "react-icons/rx";
+import { RxDoubleArrowRight } from "react-icons/rx"
+import { Link } from 'react-scroll'
 
 const Home = () => {
     return (
@@ -15,13 +16,13 @@ const Home = () => {
                         front-end solutions in JavaScript node Js mongoDB, express and react
                         (MERN Stack)</p>
                     <div>
-                        <button className='group text-white w-fit px-6 py-3 my-2 flex 
+                        <Link to='Portfolio' smooth={true} duration={500} className='group text-white w-fit px-6 py-3 my-2 flex 
                         items-center rounded-md bg-gradient-to-r from-cyan-500
-                         to-blue-900 cursor-pointer'>Potfolio
+                         to-blue-900 cursor-pointer'>Portfolio
                             <span className='group-hover:rotate-90 duration-300 '>
                                 <RxDoubleArrowRight size={30} className="ml-2" />
                             </span>
-                        </button>
+                        </Link>
                     </div>
                 </div>
 
