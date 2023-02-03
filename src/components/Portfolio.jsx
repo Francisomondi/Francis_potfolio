@@ -1,10 +1,10 @@
 import React from 'react'
-import { Link } from 'react-scroll'
+//import { Link } from 'react-scroll'
 import arrayDestruct from "../assets/portfolio/7.png"
-import installNode from "../assets/portfolio/7.png"
-import navbar from "../assets/portfolio/7.png"
-import reactParallax from "../assets/portfolio/7.png"
-import reactSmooth from "../assets/portfolio/7.png"
+import installNode from "../assets/portfolio/8.png"
+import navbar from "../assets/portfolio/9.png"
+import reactParallax from "../assets/portfolio/10.png"
+import reactSmooth from "../assets/portfolio/11.png"
 import reactWeather from "../assets/portfolio/7.png"
 
 
