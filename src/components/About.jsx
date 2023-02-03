@@ -8,33 +8,28 @@ const About = () => {
                     <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
                 </div>
                 <p className='text-xl mt-20 '>
-                    I have experience building products for web app users, meeting highest
-                    standards for design, user experience, best practices, usability and
-                    speed. Responding to challenges by designing and developing solutions
-                    and building applications aligned to customer's services. Translating
-                    solutions into code and working across many different APIs, third-party
-                    integrations and databases.
-                    I bring hands-on experience participating in and leading product design
-                    projects, including gathering user requirements, producing code,
-                    creating mockups and designing deployment, scale-up and load
-                    balancing architectures. I focus on creating clean, robust code with
-                    exceptional security and I am able to achieve compatibility targets while
-                    meeting and exceeding customer demands
+                   Universal Grants (UG) 
+                    ltd is an international Non-Governmental Organization offering non-refundable loans
+                     to Kenyans to Start up new businesses and boost existing businesses. We also offer grants
+                     for emergencies such as Medical Bills, School Fees, Famine & hunger among others. 
+
+                   One of the challenges that people face when starting a business is
+                    funding. Universal Grants Ltd Funding for startups in Kenya can 
+                    help you launch or expand your business.Startup funding is a big
+                     deal for Kenyan entrepreneurs in the Kenya startup ecosystem.
+                      There are many people with business ideas but can’t put them 
+                      into action since they have no money.You can get a startup 
+                       ranging between Ksh 50,000 and Ksh 500,000. The aim of the
+                        program is to  eradicate poverty by creating opportunities. 
                 </p>
                 <br />
                 <p className='text-xl'>
-                    I have experience building products for web app users, meeting highest
-                    standards for design, user experience, best practices, usability and
-                    speed. Responding to challenges by designing and developing solutions
-                    and building applications aligned to customer's services. Translating
-                    solutions into code and working across many different APIs, third-party
-                    integrations and databases.
-                    I bring hands-on experience participating in and leading product design
-                    projects, including gathering user requirements, producing code,
-                    creating mockups and designing deployment, scale-up and load
-                    balancing architectures. I focus on creating clean, robust code with
-                    exceptional security and I am able to achieve compatibility targets while
-                    meeting and exceeding customer demands
+                   .Universal Grants Ltd has availed many opportunities 
+                    to Kenyan youths who want to venture into business. The fund is available to Kenyan 
+                    people aged between 18 and 50 years.It also aim is to help youth stabilize financially 
+                    and also promote employment through the creation of jobs.It also offers mentorship
+                     programs to entrepreneurs. Universal Grants Ltd offers funding for entrepreneurs or
+                     individuals who want to start a new business venture or run an existing one.
                 </p>
             </div>
         </div>
